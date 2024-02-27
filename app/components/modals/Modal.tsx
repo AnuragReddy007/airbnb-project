@@ -177,6 +177,7 @@ ${showModal ? 'opacity-100' : 'opacity-0'}
                             />
 
                         </div>
+                        {footer}
                             </div>
                         </div>
                     </div>
